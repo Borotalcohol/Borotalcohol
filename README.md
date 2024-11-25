@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Christian 👋</h1>
-<h3>AI Student & Developer</h3>
+<h3>AI Enginner & Fullstack Developer</h3>
 
-- 📚 Second Year of AI for Science & Technology Master in Milan Bicocca University
-- ⚡ I’m working as a Freelancer Web Developer
-- 💬 Ask me about <b>Web Development & AI</b>
+- 📚 Graduated in Computer Science & Artificial Intelligence
+- ⚡ I’m working as a R&D on AI projects at Leonardo
+- 💬 Ask me about <b>Full Stack Development & AI</b>
 - 📫 How to reach me: loschiavo.christian@gmail.com
